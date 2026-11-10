@@ -1,0 +1,6 @@
+{
+  "name": "PCTE MATCH",
+  "description": "Private dating and social discovery platform exclusively for verified PCTE students aged 18 and above.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
